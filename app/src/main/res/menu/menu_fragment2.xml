@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="petrumugurel.site.androidarchnavigationtest.MainActivity">
+
+  <!-- Using the same id for both a destination and a menu item
+  automatically associates the destination with the menu item -->
+  <item
+      android:id="@id/blankFragment"
+      android:title="@string/action_go_back"
+      android:icon="@android:drawable/ic_media_rew"
+      />
+</menu>

@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">AndroidArchNavigationTest</string>
+
+  <!-- TODO: Remove or change this placeholder text -->
+  <string name="hello_blank_fragment">Hello blank fragment\n\nPush the button to advance to the 2nd screen</string>
+  <string name="hello_blank_fragment2">Hello blank fragment no 2</string>
+  <string name="title_activity_main">MainActivity</string>
+  <string name="action_go_back">Go Back</string>
+</resources>
